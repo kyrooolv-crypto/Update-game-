@@ -1,0 +1,8 @@
+{
+  "appId": "com.silikonnusa.game",
+  "appName": "Silikon Nusa",
+  "webDir": "www",
+  "backgroundColor": "#1d1d1b",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}
